@@ -4,6 +4,9 @@
     border: 1px;
     border-color: black;
     background-color: lightblue;
+    position: absolute;
+    top: 10%;
+    left: 10%;
 }
 
 #character{
